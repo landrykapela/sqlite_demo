@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">sqlite_demo</string>
+	<string name="head_line">Add Home Items</string>
+	<string name="item_name_hint">Enter item name</string>
+	<string name="item_desc_hint">Enter item description</string>
+	<string name="save">save</string>
+	<string name="view">View</string>
+</resources>
